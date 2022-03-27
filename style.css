@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+.body {
+    font-family: 'Ubuntu Mono', monospace; 
+}
+
+.nav {
+    background-color: aqua;
+    color:blue;
+    padding: 15px;
+}
+
+.nav-li {
+    margin: 1vw;
+    padding: 5px;
+    background-color: white;
+}
+
+.nav-ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.nav-li:hover {
+        color: azure;
+        text-decoration: underline;
+        cursor: pointer;
+        background-color: green;
+}
+
+.footer{
+    background-color: aquamarine;
+}
+
+.log {
+    height: 5vw;
+}
+
+.card {
+    display: flex
+}
+.cards2 {
+    display: block;
+}
+
+.cards {
+    display: block;
+}
+
+.cards3 {
+    display: flex;
+    margin: 2vw;
+}
+
+.img1 {
+    height: 10vw;
+}
+
+footer {
+    background-color: aquamarine;
+    height: 50vw;
+    padding: 5vw;
+    display: flex;
+}
+
+.aa {
+    background-color: orangered;
+    display: block;
+    padding: 5px;
+    margin:  3vw;
+    color: black;
+}
